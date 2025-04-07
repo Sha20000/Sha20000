@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sha20000
+- 👋 Hi, I’m Shanuka Mahavithana.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Bachelor of Information Technology.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via git hub
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I would love to laugh.
 
 <!---
 Sha20000/Sha20000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
