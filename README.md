@@ -1,12 +1,21 @@
-- 👋 Hi, I’m Shanuka Mahavithana.
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Bachelor of Information Technology.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me via git hub
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I would love to laugh.
+# Shanuka Maduranga Mahavithana
 
-<!---
-Sha20000/Sha20000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Final year BSc IT student at SLIIT specializing in 
+Machine Learning and Explainable AI.
+
+## What I work on
+- Deep learning for educational analytics (GRU, attention, SHAP)
+- NLP and transformer fine-tuning (LoRA, XLM-RoBERTa)
+- End-to-end ML deployment (Docker, GCP Cloud Run, FastAPI)
+
+## Key Projects
+- Academic Burnout Detection — Unified Multi-Horizon GRU, F1=0.719
+- Heart Disease Risk Predictor — Random Forest + SHAP, deployed GCP
+- MathCodeBench — LoRA fine-tuning Qwen2.5-Coder
+
+## Certifications
+- AWS Cloud Practitioner
+- PyTorch Deep Learning
+
+## Connect
+LinkedIn: linkedin.com/in/shanuka-maduranga-795330238
